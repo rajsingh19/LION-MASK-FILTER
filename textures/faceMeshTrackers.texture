@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "faceMeshTrackers",
+  "identifier": "texture:7762-90216759-7b28-4c7a-a884-c820560321d5",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "68be4ba22dde51e09ac559e897c65457",
+  "assetLocator": "textures/faceMeshTrackers.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "68be4ba22dde51e09ac559e897c65457",
+      "colorCount": 183,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.3924659793278186,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
